@@ -18,6 +18,7 @@ Former child, aspiring adult!
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Let's begin](https://www.indeviduals.com/posts/let-s_begin/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub stats
