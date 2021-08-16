@@ -21,10 +21,6 @@ Former child, aspiring adult!
 - [Let's begin](https://www.indeviduals.com/posts/let-s_begin/)
 <!-- BLOG-POST-LIST:END -->
 
-### GitHub stats
-
-<img align="left" alt="agerro's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=agerro" />
-
 [website]: https://indeviduals.com
 [instagram]: https://instagram.com/marcus_alexander_
 
