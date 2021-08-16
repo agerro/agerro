@@ -23,7 +23,7 @@ Former child, aspiring adult!
 
 ### GitHub stats
 
-<img align="left" alt="agerro's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=agerro&show_icons=true&hide_border=true" />
+<img align="left" alt="agerro's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=agerro" />
 
 [website]: https://indeviduals.com
 [instagram]: https://instagram.com/marcus_alexander_
