@@ -6,8 +6,8 @@ Former child, aspiring adult!
 
 - 🔭 I'm currently post as much of my learnings at [indeviduals.com][website]
 - 🌱 I’m currently learning GCP 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to make music and play as many instruments as I can
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to make music and learn new instruments
 
 ### Connect with me:
 
