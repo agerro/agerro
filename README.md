@@ -12,6 +12,8 @@ Former child, aspiring adult!
 ### Connect with me:
 
 [<img align="left" alt="agerro | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="marcuswithm | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
 
 <br />
 
