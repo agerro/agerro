@@ -2,7 +2,7 @@
 
 Former child, aspiring adult!
 
-## I'm a Developer, currently working as a DevOps Engineer at Cybercom Group!
+## I'm a Developer, currently working as a DevOps Engineer and Consultant Manager at Knowit!
 
 - 🔭 I'm currently post as much of my learnings at [indeviduals.com][website]
 - 🌱 I’m currently learning Serverless.
