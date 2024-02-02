@@ -2,11 +2,11 @@
 
 Former child, aspiring adult!
 
-## I'm a Developer, currently working as a DevOps Engineer and Consultant Manager at Knowit!
+## I'm a Developer and Cloud/DevOps enthusiast, currently working as a Business Area Manager for Cloud and DevOps at Software By Quokka!
 
 - 🔭 I'm currently post as much of my learnings at [indeviduals.com][website]
 - 🌱 I’m currently learning Serverless.
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to make music and learn new instruments
 
 ### Connect with me:
