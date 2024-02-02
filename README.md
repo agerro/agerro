@@ -18,7 +18,8 @@ Former child, aspiring adult!
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Let's begin](https://www.indeviduals.com/posts/let-s_begin/)
+- [So, let&#39;s actually use this website I built 3 years ago](https://www.indeviduals.com/posts/continuation/)
+- [Let&#39;s begin 2](https://www.indeviduals.com/posts/let-s_begin/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://indeviduals.com
